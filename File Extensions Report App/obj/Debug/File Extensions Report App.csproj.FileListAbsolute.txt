@@ -1,0 +1,10 @@
+c:\users\matteo.montani\documents\visual studio 2015\Projects\File Extensions Report App\File Extensions Report App\bin\Debug\File Extensions Report App.exe.config
+c:\users\matteo.montani\documents\visual studio 2015\Projects\File Extensions Report App\File Extensions Report App\bin\Debug\File Extensions Report App.exe
+c:\users\matteo.montani\documents\visual studio 2015\Projects\File Extensions Report App\File Extensions Report App\bin\Debug\File Extensions Report App.pdb
+c:\users\matteo.montani\documents\visual studio 2015\Projects\File Extensions Report App\File Extensions Report App\obj\Debug\File Extensions Report App.csprojResolveAssemblyReference.cache
+c:\users\matteo.montani\documents\visual studio 2015\Projects\File Extensions Report App\File Extensions Report App\obj\Debug\File_Extensions_Report_App.Form1.resources
+c:\users\matteo.montani\documents\visual studio 2015\Projects\File Extensions Report App\File Extensions Report App\obj\Debug\File_Extensions_Report_App.Properties.Resources.resources
+c:\users\matteo.montani\documents\visual studio 2015\Projects\File Extensions Report App\File Extensions Report App\obj\Debug\File Extensions Report App.csproj.GenerateResource.Cache
+c:\users\matteo.montani\documents\visual studio 2015\Projects\File Extensions Report App\File Extensions Report App\obj\Debug\File Extensions Report App.exe
+c:\users\matteo.montani\documents\visual studio 2015\Projects\File Extensions Report App\File Extensions Report App\obj\Debug\File Extensions Report App.pdb
+c:\users\matteo.montani\documents\visual studio 2015\Projects\File Extensions Report App\File Extensions Report App\obj\Debug\File_Extensions_Report_App.Form2.resources
